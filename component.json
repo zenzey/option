@@ -1,0 +1,21 @@
+{
+  "name": "option",
+  "repo": "zenzey/option",
+  "description": "A simple Options mixin component.",
+  "version": "0.0.1",
+  "keywords": ["option", "config", "mixin"],
+  "dependencies": {
+    "component/object": "*",
+    "component/type": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*",
+    "visionmedia/mocha-cloud": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
